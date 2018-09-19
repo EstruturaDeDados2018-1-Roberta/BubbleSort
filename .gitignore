@@ -1,0 +1,5 @@
+## Linux ##
+# GCC
+*.o
+*.exe
+executavel
